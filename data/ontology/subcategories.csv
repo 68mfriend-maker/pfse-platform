@@ -1,0 +1,13 @@
+subcategory_id,name,category_id
+SC1,Data Warehouse,C1
+SC2,ETL,C1
+SC3,LLM Platforms,C2
+SC4,ML Platforms,C2
+SC5,Sales CRM,C3
+SC6,Marketing Automation,C3
+SC7,Core ERP,C4
+SC8,Financial ERP,C4
+SC9,RPA,C5
+SC10,BPM,C5
+SC11,iPaaS,C6
+SC12,API Management,C6
