@@ -1,4 +1,3 @@
-# pfse-platform
 # PFSE Platform (Partner Fit & Strategy Engine)
 
 PFSE is a graph-powered decision engine that:
