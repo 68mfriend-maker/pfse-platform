@@ -1,0 +1,7 @@
+condition,strategy,type,weight
+C1,Giant-Led,OPPOSES,1.0
+C1,Adjacency-Led,SUPPORTS,0.8
+C2,Giant-Led,SUPPORTS,0.9
+C3,Giant-Led,OPPOSES,0.8
+C3,Adjacency-Led,SUPPORTS,0.7
+C5,Switcher-Led,SUPPORTS,0.9
