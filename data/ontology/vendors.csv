@@ -1,0 +1,15 @@
+vendor_id,name,subcategory_id
+V1,Snowflake,SC1
+V2,Databricks,SC4
+V3,OpenAI,SC3
+V4,Microsoft Azure,SC4
+V5,Salesforce,SC5
+V6,HubSpot,SC6
+V7,SAP,SC7
+V8,Oracle,SC8
+V9,Automation Anywhere,SC9
+V10,UiPath,SC9
+V11,Pegasystems,SC10
+V12,MuleSoft,SC11
+V13,Boomi,SC11
+V14,Apigee,SC12
