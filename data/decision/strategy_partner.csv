@@ -1,0 +1,5 @@
+strategy,partner_type,weight
+Adjacency-Led,Adjacency Challenger,0.7
+Adjacency-Led,Competitive Switcher,0.3
+Giant-Led,Global Giant,0.8
+Giant-Led,Competitive Switcher,0.2
