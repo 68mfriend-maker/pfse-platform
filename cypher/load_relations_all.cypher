@@ -44,7 +44,7 @@ MATCH (p:PartnerType {name: row.partner_type})
 CREATE (s)-[:RECOMMENDS {weight: toFloat(row.weight)}]->(p);
 
 // QUESTION → ANSWERS
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/68mfriend-maker/pfse-platform/main/data/decision/question_answers.csv' AS row
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/68mfriend-maker/pfse-platform/main/data/decision/question_answers_complete.csv' AS row
 MATCH (q:Question {id: row.question})
 MATCH (a:Answer {value: row.answer})
 CREATE (q)-[:HAS_ANSWER]->(a);
